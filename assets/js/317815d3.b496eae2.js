@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpublic=globalThis.webpackChunkpublic||[]).push([[9703],{1898:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/GitBookTest/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
